@@ -1,0 +1,72 @@
+CS142 Project 8 - Submission Form
+
+Please fill in this form and submit it with your Project 8.
+
+Enter no more than 5 user stories that you did for the assignment that you would
+like to be graded on. For each story include the following information:
+
+Story number:2
+Story Name:@mentions in comments
+Story points:6
+Brief description to see the story in action:
+The logged-in user would be able to mention registered users in the comments and be able to see all the photos with @mention user.
+
+Story number:7
+Story Name: Favorite lists of photos for users
+Story points:6
+Brief description to see the story in action:
+The logged-in user would be able to mark photos favorite and be able to see all the favorite photos by clicking on "favorite" button as well as on new page new page (path: /favorites).
+User also can mark unfavorite (if photo is marked favorite) photo. User can unfavorite photo from favorite page also.
+
+Story Number:4
+Story Name: Activity Feed
+Story points:4
+Brief description to see the story in action:
+User can keep track of activity like user login, logout, user registration, photo-like, photo-unlike, photo comment by clicking on activity button or on the new page (path: /activities).
+
+Total Story Points:16
+
+Marketing Video URL (ensure permissions are set to public viewing):
+
+Is it OK if we post your Marketing Video URL on the class discussion forum?
+[Yes/No] No
+
+Any special instructions for grading (it should be easy for someone to run your
+app from a new machine):
+
+Note: Following are the partially implemented (finished back-end implementation) user stories.
+
+Story Number:6
+Story Name: Photo “like” votes
+Story points: 4
+URL: "/likeUnlike/:photo_id"
+
+Story Number:1
+Story Name: Extend user profile detail with usage
+Story points: 3
+URL: "/TopComment/:id", URL "/TopUserPhoto/:id".
+
+
+Video URL: https://youtu.be/9AGS_fXIZgQ
+
+************************************ Example ***********************************
+* As an example: if you did only story 5, your file would look like:
+*
+* Story number and name:  5 - Activity Feed
+* Story points:  4
+* Brief description to see the story in action:
+* Push the button labeled Activity on the toolbar to view the 10 most recent
+* activities of the current user.
+*
+* Total Story Points: 4
+*
+* Marketing Video URL (ensure permissions are set to public viewing):
+* http://www.youtube.com ---
+*
+* Is it OK if we post your Marketing Video URL on the class discussion forum?
+* Yes
+*
+* Any special instructions for grading (it should be easy for someone to run
+* your app from a new machine):
+* None
+************************************ Example ***********************************

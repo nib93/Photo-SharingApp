@@ -1,0 +1,15 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+.card {
+  font-family: 'Trebuchet MS';
+  padding: 12;
+  margin: 10px;
+  border-radius: 16;
+  background: linear-gradient(
+    90deg,
+    rgba(236, 243, 255, 1) 0%,
+    rgba(209, 220, 255, 1) 100%
+  );
+}
